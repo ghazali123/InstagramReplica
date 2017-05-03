@@ -11,6 +11,8 @@ gem 'rails', '~> 5.0.2'
 gem 'paperclip', '~> 5.1'
 gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.3.7'
+gem 'devise'  
+gem 'bcrypt', platforms: :ruby
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
